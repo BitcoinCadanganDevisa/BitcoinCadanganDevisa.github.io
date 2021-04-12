@@ -2,7 +2,7 @@
 layout: page
 title:  "Tentang"
 categories:
-permalink: /Tentang
+permalink: /tentang
 ---
 
 Halo, saya Rizky Syaiful ([RizkySyaiful.github.io](https://RizkySyaiful.github.io))...
