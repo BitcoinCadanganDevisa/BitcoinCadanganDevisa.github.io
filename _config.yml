@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bitcoin&rarr;Cadangan Devisa
+title: Bitcoin → Cadangan Devisa
 email: rizky.syaiful@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Tidak banyak yang tahu, Bitcoin itu sebuah pergerakan.
@@ -25,7 +25,7 @@ twitter_username:
 facebook_username: 
 
 disqus:
-  shortname: rizkysyaiful
+  shortname: bitcoincadangandevisa
 
 # Build settings
 markdown: kramdown
