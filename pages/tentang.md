@@ -16,7 +16,7 @@ Karena:
 1. Fondasi keadilan sosial adalah keadilan ekonomi.
 2. Keadilan ekonomi bisa terlihat dari keadilan pertumbuhan penghasilan.
 3. Penciptaan uang dari angin (tidak berbasis atas sesuatu yang langka) & deregulasi finansial sejak 1971 adalah penyebab utama ketimpangan pertumbuhan penghasilan kita sekarang.
-4. Bitcoin adalah kandidat basis uang terbaik saat ini karena fiturnya (transfer online, transparansi transaksi, ketiadaan pemilik, kelangkaan suplai, kebutuhan energi untuk penciptaan Bitcoin baru) dan kisah penciptaannya.
+4. Bitcoin adalah kandidat basis uang terbaik saat ini karena fiturnya <span style="color:grey;">(transfer online, transparansi transaksi, keabadian *open source*, kapasitas besar -- 26 kali total uang di dunia saat ini, kelangkaan suplai, kebutuhan energi untuk 'menambang' Bitcoin baru)</span> dan kisah penciptaannya.
 
 > Maka, fondasi keadilan sosial dunia saat ini adalah **Bitcoin → Cadangan Devisa**.
 
