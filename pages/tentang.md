@@ -31,6 +31,6 @@ Di situs ini, semua bisa:
 
 Ada fitur komentar di semua halaman di atas.
 
-**Setuju?** *Welcome to the tribe!* Mari kita bahas strategi terbaik untuk [mempopulerkan Bitcoin sebagai tabungan ke akar rumput]({% link pages/brainstorm-cara-mempopulerkan-bitcoin-ke-akar-rumput.md %}) & [menjelaskan Bitcoin dengan baik ke pengambil keputusan di atas sana]({% link pages/brainstorm-cara-menjelaskan-bitcoin-ke-pemerintah.md %}). Jangan lupa follow IG [@BitcoinCadanganDevisa](https://www.instagram.com/BitcoinCadanganDevisa/)
+**Setuju?** *Welcome to the tribe!* Mari kita bahas strategi terbaik untuk [mempopulerkan Bitcoin sebagai tabungan ke akar rumput]({% link pages/brainstorm-cara-mempopulerkan-bitcoin-ke-akar-rumput.md %}) & [menjelaskan Bitcoin dengan baik ke pengambil keputusan di atas sana]({% link pages/brainstorm-cara-menjelaskan-bitcoin-ke-pemerintah.md %}). Jangan lupa follow IG [@BitcoinCadanganDevisa](https://www.instagram.com/BitcoinCadanganDevisa/).
 
 Beruntunglah kita, karena terlahir di era paling revolusioner bagi umat manusia.
